@@ -1,0 +1,22 @@
+Requirements to run project
+1)	Python  above 3 version (preferable 3.9)
+            Please go below website for python installation
+          https://www.python.org/downloads/
+2)	Robot framework version 2.9
+Run below command in CMD window
+pip install robot framework==2.9
+
+
+Note : use any ide to open project like pycharm or Vstudio or atom
+Steps to RUN:
+
+
+1)	Go to terminal window or cmd window
+Go to folder path robot framewok /Scripts 
+ Using Cd     Pathofscripts
+2)	   Run individual script using
+    Pybot     scriptname
+3)	To run all scripts use below command
+Pybot .
+
+  
